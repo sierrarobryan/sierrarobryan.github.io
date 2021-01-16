@@ -1,2 +1,3 @@
 # sierrarobryan.github.io
-my awesome static website by Sierra 
+my amazing, awesome static website by Sierra 
+
