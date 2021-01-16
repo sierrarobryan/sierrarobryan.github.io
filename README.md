@@ -1,3 +1,3 @@
 # sierrarobryan.github.io
-my amazing, awesome static website by Sierra 
+my amazing, awesome static website by Sierra Obryan 
 
